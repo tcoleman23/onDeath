@@ -1,0 +1,6 @@
+main: zadi15.onDeath.Main
+name: onDeath
+version: 1.10.0
+author: https://github.com/zadi15
+description: This plugin adds Loction readbacks on death
+api-version: 1.16
